@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\3RD SEMESTER\oop\Roman_Integer converter\Roman_Integer converter\Source.cpp(6,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\3RD SEMESTER\oop\Roman_Integer converter\Roman_Integer converter\Source.cpp(76,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Roman_Integer converter.vcxproj -> D:\3RD SEMESTER\oop\Roman_Integer converter\x64\Debug\Roman_Integer converter.exe
